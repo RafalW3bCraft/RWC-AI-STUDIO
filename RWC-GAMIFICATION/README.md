@@ -193,28 +193,6 @@ POST /api/generate_from_upload
 
 ---
 
-## 📁 Project Structure
-
-```
-RWC-AI-Studio/
-├── RWC_AI_Game.ipynb          # Main notebook file
-├── README.md                  # This file
-├── requirements.txt           # Python dependencies
-├── LICENSE                    # MIT License
-├── assets/
-│   ├── screenshots/           # UI screenshots
-│   └── examples/             # Example generated images
-├── docs/
-│   ├── SETUP.md              # Detailed setup guide
-│   ├── API.md                # Complete API documentation
-│   └── STYLES.md             # Style guide and examples
-└── data/
-    ├── styles/               # Style preset configurations
-    └── achievements/         # Achievement definitions
-```
-
----
-
 ## 🎯 Usage Examples
 
 ### Notebook Generation
@@ -425,7 +403,7 @@ A: Yes! All player data is automatically saved to Google Drive in Colab.
 
 - **v1.0.0**: Initial release with core gaming features
 - **v1.1.0**: Added web interface and API
-- **v1.2.0**: Enhanced mobile support and ngrok integration
+- **v1.1.5**: Enhanced mobile support and ngrok integration
 
 ---
 
@@ -433,4 +411,4 @@ A: Yes! All player data is automatically saved to Google Drive in Colab.
 
 ---
 
-*Made with ❤️ by the RWC-AI-Studio team*
+*Made with ❤️ by the RafalW3bCraft & team*
