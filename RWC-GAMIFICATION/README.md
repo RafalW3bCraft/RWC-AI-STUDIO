@@ -329,7 +329,7 @@ cryptography>=3.0.0
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### Development Setup
 
@@ -350,27 +350,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Stable Diffusion** team for the amazing AI models
-- **Hugging Face** for model hosting and transformers library
-- **Google Colab** for providing free GPU access
-- **Flask** community for the excellent web framework
-- All contributors and beta testers
+This project is licensed under the MIT License.
 
 ---
 
 ## 📞 Support
-
-### Get Help
-
-- 📖 **Documentation**: Check our [docs folder](docs/) for detailed guides
-- 💬 **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/your-username/rwc-ai-studio/issues)
-- 🌟 **Discussions**: Join community discussions in [GitHub Discussions](https://github.com/your-username/rwc-ai-studio/discussions)
 
 ### FAQ
 
@@ -385,25 +369,6 @@ A: Yes! Modify the `GAMIFIED_STYLE_PRESETS` dictionary with your own styles.
 
 **Q: Is my progress saved?**
 A: Yes! All player data is automatically saved to Google Drive in Colab.
-
----
-
-## 🚀 Roadmap
-
-### Upcoming Features
-
-- 🎪 **Multiplayer Mode**: Compete with friends
-- 🎲 **Random Challenges**: Daily artistic quests  
-- 🏪 **Style Marketplace**: Community-created styles
-- 🎬 **Animation Support**: AI video generation
-- 📊 **Advanced Analytics**: Detailed progress tracking
-- 🌍 **Multi-language**: Support for more languages
-
-### Version History
-
-- **v1.0.0**: Initial release with core gaming features
-- **v1.1.0**: Added web interface and API
-- **v1.1.5**: Enhanced mobile support and ngrok integration
 
 ---
 
