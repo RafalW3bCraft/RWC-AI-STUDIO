@@ -1,4 +1,3 @@
-````markdown
 # 🐔 RWC-Minus-Studio
 # RWC-Minus-Studio
 
@@ -27,7 +26,7 @@ Install dependencies:
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 pip install diffusers transformers accelerate scipy
 pip install flask flask-cors pydrive2 pillow
-````
+```
 
 ---
 
