@@ -79,4 +79,4 @@ The server launch cell sets up an ngrok tunnel to provide a public URL. This all
 
 ---
 
-**🎉 Enjoy creating amazing AI art with RafalW3bCraft**
+**🎉 Enjoy creating amazing AI art with RWC-AI-STUDIO!**
