@@ -28,4 +28,4 @@ cd RWC-AI-STUDIO
 
 MIT License © 2025 **RafalW3bCraft**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction...
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction... ..
